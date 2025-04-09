@@ -1,0 +1,7 @@
+torch>=2.2.0
+transformers>=4.38.0
+datasets>=2.18.0
+numpy>=1.24.0
+tqdm>=4.66.0
+wandb>=0.16.0  # for logging training metrics
+safetensors>=0.4.0  # for model weights 
