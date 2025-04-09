@@ -54,6 +54,10 @@ GRPO is a group-based relative policy optimization method that fine-tunes langua
 
 ```
 minReasoner/
+├── examples/
+│   ├── README.md
+│   ├── finetune_gpt2_dpo.py
+│   └── finetune_qwen_grpo.py
 ├── minReasoner/
 │   ├── __init__.py
 │   ├── core/
@@ -69,6 +73,7 @@ minReasoner/
 │       ├── __init__.py
 │       └── default.py
 ├── setup.py
+├── requirements.txt
 └── README.md
 ```
 
